@@ -23,7 +23,7 @@ class String
     if full_sentence_array.size == 0
       0
     else
-      return full_sentence_array.size
+      full_sentence_array.size
     end
     
   end
